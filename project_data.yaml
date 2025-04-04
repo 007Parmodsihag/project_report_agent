@@ -1,0 +1,43 @@
+# --- AI Project Report Agent Input ---
+# --- Fill in your project details below ---
+
+# Student and Project Metadata
+student_name: "Parmod"
+roll_number: "233112720003" # Important for filename & declaration
+enrollment_number: "223201234"
+course_code: "MCS-47"
+department: "Department of Computer Sc. & Applications"
+college: "GGJ Government College, Hisar"
+submission_month_year: "May 2025"
+supervisor_name: "Dr. Sudesh"
+supervisor_designation: "HOD"
+
+# Project Details
+project_title: "High Table Holdings: Python Accounting and Inventory Management System"
+project_summary: "High Table Holdings is a comprehensive Python software designed to simplify accounting and inventory management for businesses and individuals. It features user-friendly interfaces for managing accounts, tracking inventory, generating reports, and handling billing. The system offers efficient tools for managing customer accounts, recording transactions, generating bills, and tracking stock levels, all in one place."
+objectives:
+  - "To design and implement an accounting and inventory management system using Python."
+  - "To create a user-friendly interface for businesses to manage accounts, inventory, and transactions."
+  - "To provide features for bill generation, transaction tracking, inventory management, and reporting."
+methodology_tools: "The project is implemented using Python, with key libraries such as tkinter for the graphical user interface (GUI), pandas for data management, matplotlib for visualizations, and PyPDF2 for PDF manipulations. SQLite is used for the database, while the software is tested primarily on Windows operating systems."
+results_summary: "The software allows users to efficiently manage accounts, inventory, and billing systems. It also generates various reports, including transaction summaries and stock levels, and visualizes data for better analysis. Performance metrics include usability feedback, data accuracy, and system stability."
+conclusions_future_scope:
+  - "The system successfully integrates accounting and inventory management features into a single platform, improving operational efficiency for businesses."
+  - "Some improvements can be made in terms of scalability for larger businesses and real-time stock tracking."
+  - "Future work could involve adding cloud synchronization, real-time inventory updates, and multi-user support for larger teams."
+
+# Paths (relative to project root or absolute)
+# Place your logo (e.g., logo.png) in the 'data' directory
+logo_image_path: "data/logo.png"
+
+# Content Hints (Optional - Provide specific points for the LLM)
+introduction_points:
+  - "Overview of the importance of accounting and inventory management for businesses."
+  - "Challenges in managing accounts and stock efficiently."
+  - "How Python can be leveraged to build simple and effective management systems."
+literature_review_ideas:
+  - "Accounting software development using Python (e.g., 'Smith et al. (2018)')"
+  - "Inventory management systems in small to medium enterprises (e.g., 'Johnson et al. (2020)')"
+  - "Integration of GUI-based applications with databases."
+  - "Data visualization techniques for financial and inventory management."
+# Add more hints for other sections if desired (e.g., implementation_details, discussion_points)
